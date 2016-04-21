@@ -25,9 +25,9 @@ start java -classpath destDir -Djava.rmi.server.codebase=file:classDir/ bully.al
 ## Managing Nodes
 When a node is initiated it gives some output as well as start a fresh election.
 ### Terminate a node
-When on the node terminal windo press ctrl + C to terminate a node.
+When on the node terminal window press ctrl + C to terminate a node.
 
-Note : Dont close the terminal window of a node by pressing the close window. This will generate errors
+Note : Dont close the terminal window of a node by pressing the close button. This will generate errors
 
 ## Further Reading 
 * [Java RMI Tutorial](https://docs.oracle.com/javase/tutorial/rmi/)
